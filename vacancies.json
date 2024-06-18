@@ -1,0 +1,23 @@
+[
+    {
+        "link": "https://spb.hh.ru/vacancy/102172518?query=python&hhtmFrom=vacancy_search_list",
+        "title": "Senior python developer",
+        "company": "START",
+        "city": "Москва",
+        "salary": "Не указана"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/101982971?query=python&hhtmFrom=vacancy_search_list",
+        "title": "Python backend developer",
+        "company": "LITE Gallery",
+        "city": "Москва",
+        "salary": "от 140 000 ₽ до вычета налогов"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/100084708?query=python&hhtmFrom=vacancy_search_list",
+        "title": "Python Developer",
+        "company": "ИП Бережная Кристина Васильевна",
+        "city": "Санкт-Петербург",
+        "salary": "Не указана"
+    }
+]
